@@ -1,4 +1,4 @@
-**This is a basic CLI Quiz app. Here is what the app will do -** 
+**This is a basic CLI Quiz app. Here is what the app will do -**  
 * take user's name and welcome them
 * show 'level one' questions and answer options and take option as an input from the user
 * increment the score if the answer is correct, decrement if the answer is incorrect as penalty
